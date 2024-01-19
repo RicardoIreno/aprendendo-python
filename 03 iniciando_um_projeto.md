@@ -22,3 +22,5 @@ poetry add --group dev pytest
 
 continua...
 https://python-poetry.org/docs/basic-usage/
+
+..
